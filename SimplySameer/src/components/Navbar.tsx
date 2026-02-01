@@ -12,7 +12,7 @@ export function Navbar() {
         <li><Link to="/about">About</Link></li>
         <li><Link to="/about#skills">My Skills</Link></li>
         <li><Link to="/projects">Work</Link></li>
-        <li><Link to="/projects">Blog</Link></li>
+        <li><Link to="/blog">Blog</Link></li>
         <li><Link to="/contact">Contact</Link></li>
       </ul>
       <div className="sidebar-social">
